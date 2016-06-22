@@ -1,0 +1,6 @@
+platform :ios, "8.0"
+
+pod "YYWebImage"
+pod 'Masonry'
+target '图片浏览demo' do
+end
